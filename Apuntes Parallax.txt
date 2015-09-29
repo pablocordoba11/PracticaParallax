@@ -1,0 +1,5 @@
+** Fixed backgraund Scrolling body example (ok-studios.de)
+** Slow elements ej (jason-kenny.com)
+** Landing Elements ej apple.com/macbook (wowjs animate.css library)
+** Multiple directional elements ej
+
